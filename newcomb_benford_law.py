@@ -1,4 +1,5 @@
 import time
+#helo hi helelo
 def digit_calc(numstr,countlist):
     for i in range(1,10):
     if numstr.startswith(str(i)):
